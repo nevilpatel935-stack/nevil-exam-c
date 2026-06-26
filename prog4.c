@@ -4,7 +4,7 @@ int main ()
 {
 	int i,j;
 	
-	ptr*[3][5]
+	ptr*[3][5];
 	printf("enter the value");
 	scanf("%d",i,j);
 	
